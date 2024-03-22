@@ -1,0 +1,3 @@
+Version A
+class Cat {
+ };
