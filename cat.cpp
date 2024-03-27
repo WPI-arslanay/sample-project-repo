@@ -1,4 +1,6 @@
 Version A
 class Cat {
-     hardy
+    void Cat(){
+        printf("Kitty cat!")
+    }
  };
