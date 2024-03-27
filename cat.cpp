@@ -1,6 +1,6 @@
 Version A
-class Cat {
-    void Cat(){
+class Kitty {
+    void Kitty(){
         printf("Kitty cat!")
     }
  };
